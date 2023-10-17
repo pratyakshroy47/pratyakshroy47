@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate App Developer and Tech Enthusiastic.<br><br>🔭 I’m currently working on Flutter, Dart, and Android<br><br>🌱 I’m currently learning React-native<br><br>📫 How to reach me pratyakshroy47@gmail.com
+A passionate App Developer, Tech Enthusiastic, and aspiring Software Developer.<br><br>🔭 I’m currently working on Flutter, Dart, and Android<br><br>🌱 I’m currently learning React-native<br><br>📫 How to reach me pratyakshroy47@gmail.com
 
 
 ## 🌐 Socials:
