@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate App Developer, Backend Developer, Tech Enthusiastic, and aspiring Software Developer.<br><br>🔭 I’m currently working on Flutter, Dart, Android, UI/UX, Go, JavaScript, SQL, Gin and Node.js<br><br>📫 How to reach me pratyakshroy47@gmail.com
+A passionate App Developer, Backend Developer, Tech Enthusiastic, and aspiring Software Developer.<br><br>🔭 I’m currently working on C++, Flutter, Dart, Android, UI/UX, Go (Golang), JavaScript, SQL and Node.js<br><br>📫 How to reach me pratyakshroy47@gmail.com
 
 
 ## 🌐 Socials:
