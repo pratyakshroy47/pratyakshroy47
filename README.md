@@ -1,9 +1,11 @@
 # Hi! I'm Pratyaksh 👋🏼:
-I'm a software engineer passionate about creating technology to elevate people and build community. Some technologies I enjoy working with include C++, Flutter, Dart, Android, UI/UX, Go (Golang), JavaScript, SQL, Graph, and Node.js <br><br>📫 How to reach me pratyakshroy47@gmail.com
+I'm a software engineer passionate about creating technology to elevate people and build community. Some technologies I enjoy working with include C++, Flutter, Dart, Android, Go (Golang), JavaScript, GraphQL, and Node.js <br><br>📫 How to reach me pratyakshroy47@gmail.com
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyaksh-roy-9760b1230) 
+## Find me around the web 🌎:
+- Building in public on <a href="https://twitter.com/pratyakshroy_"> Twitter or X</a> 👨🏼‍💻
+- Reach me at pratyakshroy47@gmail.com 📫
+- Sharing updates on <a href="https://www.linkedin.com/in/pratyaksh-roy-9760b1230/"> LinkedIn</a> 💼
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
