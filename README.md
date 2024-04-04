@@ -1,5 +1,5 @@
 # Hi! I'm Pratyaksh 👋🏼:
-I'm a software engineer passionate about creating technology to elevate people and build community. Some technologies I enjoy working with include C++, Flutter, Dart, Android, Go (Golang), JavaScript, GraphQL, and Node.js <br><br>📫 How to reach me pratyakshroy47@gmail.com
+I'm a software engineer passionate about creating technology to elevate people and build community. Some technologies that I enjoy working with are C++, Flutter, Dart, Android, Go (Golang), JavaScript, GraphQL, and Node.js <br><br>📫 How to reach me pratyakshroy47@gmail.com
 
 
 ## Find me around the web 🌎:
