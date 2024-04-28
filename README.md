@@ -11,7 +11,7 @@ I'm a software engineer passionate about creating technology to elevate people a
 
 **Backend Development:** `Nest.js` `GraphQL` `Firebase` `Dart` `Go(Golang)` `Python`
 
-**Testing:** `Postman`
+**Testing:** `Postman` `Testing`
 
 
 ## Find me around the web 🌎:
