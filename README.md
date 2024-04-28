@@ -3,13 +3,13 @@ I'm a software engineer passionate about creating technology to elevate people a
 
 ## 📦 Toolbox
 
-**Programming Languages:** `C++` `Go(Golang)` `JavaScript` `Dart` `SQL`
+**Programming Languages:** `C++` `Go(Golang)` `JavaScript` `Dart` `SQL` `Python`
 
 **Frameworks/Libraries:** `Flutter` `NodeJs` `NextJs`
  
 **Tools/Platforms:** `GitHub` `Android Development` `Figma` 
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` `Dart` `Go(Golang)`
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` `Dart` `Go(Golang)` `Python`
 
 **Testing:** `Postman`
 
